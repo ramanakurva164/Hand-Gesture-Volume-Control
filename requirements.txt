@@ -1,0 +1,4 @@
+opencv-python
+mediapipe
+pycaw    # Windows only; use alternatives for Mac/Linux
+numpy
