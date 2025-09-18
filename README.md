@@ -11,7 +11,8 @@ A Python project that lets you control your system volume using hand gestures de
 
 ## Demo
 
-> _Add a demo GIF or screenshot here if available!_
+   <img width="1101" height="407" alt="image" src="https://github.com/user-attachments/assets/0022bb77-76d9-4702-889e-8f30548cd83b" />
+
 
 ## Requirements
 
